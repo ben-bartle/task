@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h2>Shop for a car</h2>
+
+    <form role="form">
+        <div class="form-group">
+            <label for="inputRoast">What brand of car do you want?</label>
+            <input type="text" class="form-control" id="inputRoast" >
+        </div>
+        @Html.ActionLink("Submit »", "Review", null, new { @class = "btn btn-primary btn-lg" })
+    </form>   
+    
+</div>
