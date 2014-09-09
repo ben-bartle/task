@@ -10,4 +10,4 @@ Task
   * 2003 BMW Z8
   * 2010 Chevy Silverado
   * 1998 Chevy Blazer
-4. Change the text box to a dropdown that still allows the user to input their own text. Prepopulate the list with Ford and BMW.
+4. Change the text box to a dropdown that includes an option to allow the user to select their own text. When chosen, the dropdown would be replaced with a text box. Prepopulate the list with Ford, BMW and the "select their own text" option.
